@@ -6,13 +6,14 @@
 /*   By: imorimot <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/07/05 23:46:24 by imorimot          #+#    #+#             */
-/*   Updated: 2018/07/06 14:51:29 by imorimot         ###   ########.fr       */
+/*   Updated: 2018/07/10 11:39:51 by imorimot         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include <unistd.h>
-#include "ft_strlen.c"
+
+int		ft_strlen(char *str);
 
 int		ft_putchar(char c)
 {

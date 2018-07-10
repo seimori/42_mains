@@ -6,12 +6,13 @@
 /*   By: imorimot <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/07/05 20:48:13 by imorimot          #+#    #+#             */
-/*   Updated: 2018/07/05 21:08:44 by imorimot         ###   ########.fr       */
+/*   Updated: 2018/07/10 10:51:11 by imorimot         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include	<stdio.h>
-#include	"ft_ft.c"
+
+void	ft_ft(int *nbr);
 
 int		main(void)
 {

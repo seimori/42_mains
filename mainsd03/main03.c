@@ -6,12 +6,13 @@
 /*   By: imorimot <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/07/05 20:48:13 by imorimot          #+#    #+#             */
-/*   Updated: 2018/07/05 23:33:42 by imorimot         ###   ########.fr       */
+/*   Updated: 2018/07/10 11:10:32 by imorimot         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include	<stdio.h>
-#include	"ft_div_mod.c"
+
+void	ft_div_mod(int a, int b, int *div, int *mod);
 
 int		main(void)
 {

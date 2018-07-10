@@ -6,12 +6,13 @@
 /*   By: imorimot <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/07/05 23:12:25 by imorimot          #+#    #+#             */
-/*   Updated: 2018/07/05 23:24:53 by imorimot         ###   ########.fr       */
+/*   Updated: 2018/07/10 11:08:56 by imorimot         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
-#include "ft_swap.c"
+
+void	ft_swap(int *a, int *b);
 
 int		main(void)
 {
